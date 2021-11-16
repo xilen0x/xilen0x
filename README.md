@@ -1,8 +1,7 @@
 ### Hi there 👋
-I’m a Computer Engineer and student of Master in Big Data & Data Science from Universitat de Barcelona.
-With experience in enterprise software sector and educational institutions in Support, IT, Systems, Web and Operations areas. 
+I’m a Data Engineer, with experience in ETL process. 
 
-Skills: GNU-Linux, Python, SQL, Cloud & +.
+Skills: GNU-Linux, Python, Webscraping, SQL, Cloud & more.
 - 📫 How to reach me: https://www.linkedin.com/in/carlos-astorga/
 <!--
 **xilen0x/xilen0x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

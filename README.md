@@ -1,5 +1,5 @@
 ### Hi there 👋
-I’m a Data Engineer, with experience in ETL process. 
+I’m a Computer Engineer, looking for a Data role. 
 
 Skills: GNU-Linux, Python, R, Webscraping, SQL, Cloud & more.
 - 📫 How to reach me: https://www.linkedin.com/in/carlos-astorga/

@@ -1,7 +1,7 @@
 ### Hi there 👋
 I’m a Computer Engineer, looking for a Data role. 
 
-Skills: GNU-Linux, Python, R, Webscraping, SQL, Cloud & more.
+Skills: GNU-Linux, Python, R, Web scraping, SQL, Tableau & +.
 - 📫 How to reach me: https://www.linkedin.com/in/carlos-astorga/
 <!--
 **xilen0x/xilen0x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,5 +1,6 @@
 ### Hi there 👋
-I’m a Computer Engineer, looking for a Data role. 
+I’m a Computer Engineer, specializing in Big Data & Data Science,
+looking for a Data related role. 
 
 Skills: GNU-Linux, Python, R, Web scraping, SQL, Tableau & +.
 - 📫 How to reach me: https://www.linkedin.com/in/carlos-astorga/

@@ -1,7 +1,20 @@
 ### Hi there 👋
-I’m a Big Data & Data Science, specializing in data engineering. 
 
-Skills: GNU-Linux, Python, R, Web scraping, SQL, Tableau, Git & +.
+
+ I'm a Big Data & Data Science, specializing in data engineering.
+-------------
+
+
+####Skills
+
+- GNU-Linux
+- Python
+- R
+- Web scraping
+- SQL
+- Tableau
+- Git
+- & more...
 - 📫 How to reach me: https://www.linkedin.com/in/carlos-astorga/
 <!--
 **xilen0x/xilen0x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

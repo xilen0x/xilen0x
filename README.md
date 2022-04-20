@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
- I'm a Big Data & Data Science, specializing in data engineering.
+ I'm a Master in Big Data & Data Science, specializing in data engineering.
 -------------
 
 

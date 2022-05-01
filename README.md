@@ -9,6 +9,7 @@
 
 - GNU-Linux
 - Python
+- AWS
 - R
 - Web scraping
 - SQL

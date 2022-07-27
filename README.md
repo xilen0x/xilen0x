@@ -2,7 +2,9 @@
 
 -------------
 
+- 📫 How to reach me: https://www.linkedin.com/in/carlos-astorga/
 
+<!--
 #### Skills
 
 - GNU-Linux
@@ -14,8 +16,8 @@
 - Tableau
 - Git
 - & more...
-- 📫 How to reach me: https://www.linkedin.com/in/carlos-astorga/
-<!--
+
+
 **xilen0x/xilen0x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:

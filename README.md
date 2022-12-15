@@ -11,6 +11,9 @@ https://hub.docker.com/u/xilenox
 Github
 https://github.com/xilen0x
 
+Deepnote
+https://deepnote.com/@carlos-astorga
+
 -------------
 
 - 📫 How to reach me: https://www.linkedin.com/in/carlos-astorga/

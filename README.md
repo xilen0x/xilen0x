@@ -16,6 +16,18 @@ https://deepnote.com/@carlos-astorga
 
 -------------
 
+## Github Stats  
+<div align="center">
+   <img src="https://github-readme-stats.vercel.app/api?username=xilen0x&show_icons=true&count_private=true&hide_border=true&theme=github_dark" align="center" />
+</div>  
+
+<br/>  
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=xilen0x&&style=flat-square" align="center" />
+</div>  
+
+
 - 📫 How to reach me: https://www.linkedin.com/in/carlos-astorga/
 
 <!--

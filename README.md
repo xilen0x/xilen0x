@@ -1,5 +1,5 @@
 ## <div align="center">Hi there! 👋 I'm MS. in Big Data & Data Science &&</div> 
-## <div align="center">Enthusiast of data engineering, Cloud architecture and Backend development!</div>   
+## <div align="center">Enthusiast of Data Engineering, Cloud Architecture and Backend Development!</div>   
 <br/>  
 
 ### <a href="https://github.com/xilen0x/portafolio/tree/main" target="_blank" alt="Portfolio" height="50" />Portfolio</a>  

@@ -7,8 +7,10 @@
 ### <a href="https://hub.docker.com/u/xilenox" target="_blank" alt="DockerHub" height="50" />DockerHub</a>  
 
 ### <a href="https://deepnote.com/@carlos-astorga" target="_blank" alt="Deepnote" height="50" />Deepnote</a>  
-<br/>  
+<br/>
+
 ## Github Stats  
+
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=xilen0x&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  

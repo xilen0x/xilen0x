@@ -1,5 +1,5 @@
-## <div align="center">Hi there! 👋 I'm MS. in Big Data & Data Science &&</div> 
-## <div align="center">Enthusiast of Data Engineering, Cloud Architecture and Backend Development!</div>   
+## <div align="center">Hi there! 👋 I'm Ms. in Big Data & Data Science &&</div> 
+## <div align="center">Enthusiast of Data Engineering, Cloud Architecture and Development!</div>   
 <br/>  
 
 ## Portfolio
@@ -17,16 +17,6 @@
 
 <br/>  
   
-
-- ### 🔭 I’m currently working on a Java API (private repo)  
-  
-
-- ### 🌱 I’m currently learning Java and Spring  
-  
-
-<br/>  
-
-
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 

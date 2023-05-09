@@ -1,5 +1,7 @@
+<!---
 ## <div align="center">Hi there! 👋 I'm Ms. in Big Data & Data Science &&</div> 
 ## <div align="center">Enthusiast of Data Engineering, Cloud Architecture and Development!</div>   
+-->
 <br/>  
 
 ## Portfolio (in progress...)

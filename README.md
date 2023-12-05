@@ -1,6 +1,5 @@
+## <div align="center">👋 Data Engineering / Cloud Architecture / Development! 👋</div>   
 <!---
-## <div align="center">Hi there! 👋 I'm Ms. in Big Data & Data Science &&</div> 
-## <div align="center">Enthusiast of Data Engineering, Cloud Architecture and Development!</div>   
 -->
 <br/>  
 

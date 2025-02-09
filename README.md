@@ -1,4 +1,5 @@
-## <div align="center">👋 Data Engineering / Cloud Architecture / Development! 👋</div>   
+## <div align="center">Hi! I'm a Technical Support Engineer,  
+## interested in Data Engineering, Development, Architecture and Systems!. 👋</div>   
 <!---
 
 <br/>  

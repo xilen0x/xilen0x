@@ -1,4 +1,4 @@
-## <div align="center">Hi! I'm a Technical Support Engineer,  
+## <div align="center">Hi! I'm a Computer Science Engineer,  
 ## interested in Data Engineering, Development, Architecture and Systems!. 👋</div>   
 <!---
 

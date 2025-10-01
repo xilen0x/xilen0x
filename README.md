@@ -16,14 +16,6 @@
 <br/>  
 
 
-## Top Projects
-
-[![**ft_transcendence**](https://github-readme-stats.vercel.app/api/pin/?username=xilen0x&repo=ft_transcendence&theme=dark)](https://github.com/xilen0x/ft_transcendence)
-[![**Inception**](https://github-readme-stats.vercel.app/api/pin/?username=xilen0x&repo=Inception&theme=dark)](https://github.com/xilen0x/Inception)
-[![**minishell**](https://github-readme-stats.vercel.app/api/pin/?username=xilen0x&repo=minishell&theme=dark)](https://github.com/xilen0x/minishell)
-[![**so_long**](https://github-readme-stats.vercel.app/api/pin/?username=xilen0x&repo=so_long&theme=dark)](https://github.com/xilen0x/so_long)
-[![**irc-server**](https://github-readme-stats.vercel.app/api/pin/?username=xilen0x&repo=irc-server&theme=dark)](https://github.com/xilen0x/irc-server)
-
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 

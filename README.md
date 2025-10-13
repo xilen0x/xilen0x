@@ -1,5 +1,6 @@
-## <div align="center">Hi! I'm a Computer Science Engineer,  
-## interested in Data Engineering, Development, Architecture and Systems!. 👋</div>   
+# OpenToWork! :exclamation:
+  ##                Hi! I'm a Computer Science Engineer, 
+## interested in Data Engineering, Development, Architecture and Systems   :exclamation:
 <!---
 
 <br/>  
@@ -7,11 +8,21 @@
 ### <a href="https://hub.docker.com/u/xilenox" target="_blank" alt="DockerHub" height="50" />DockerHub</a>  
 
 ### <a href="https://deepnote.com/@carlos-astorga" target="_blank" alt="Deepnote" height="50" />Deepnote</a>  
-<br/>
 -->
-## Github Stats  
+<br>  
+<br/>
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=xilen0x&show_icons=true&count_private=true&hide_border=true&theme=transparent" align="center" /></div>  
+## :round_pushpin: GitHub Stats
+
+<div align="center">
+
+| <h3 style="color:#0969da">Most Used Languages</h3><br>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xilen0x&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=00000000&hide_title=true) | <h3 style="color:#0969da">Carlos A.'s GitHub Stats</h3><br>![Stats](https://github-readme-stats.vercel.app/api?username=xilen0x&show_icons=true&count_private=true&hide_border=true&theme=radical&bg_color=00000000&hide_title=true) |
+|:--:|:--:|
+
+</div>
+
+
+
 
 <br/>  
 

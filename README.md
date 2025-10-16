@@ -16,7 +16,7 @@ Certifications:
 Technical Skills:
 - Cloud Platforms: AWS, Oracle Cloud
 - Operating Systems: Linux, Windows, macOS
-- Tools & Technologies: Docker, Git, VMware, Bash, KVM
+- Tools & Technologies: Docker, Git, VMware, Bash, KVM, Claude Code
 - Languages: C, C++, JS, Java, Python
 
 Spanish(native), English(B2), Portuguese(B1), Catalan(A2).

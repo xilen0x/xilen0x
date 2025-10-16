@@ -2,11 +2,28 @@
 # OpenToWork!                                         🚴___________________
 ▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉
   ##                Hi! I'm a Computer Science Engineer, 
-## interested in Data Engineering, Development, Architecture and Systems   :exclamation:
-<!---
+## interested in  Cloud Architecture, Systems & Development   :exclamation:
 
+Cloud Engineer with 8+ years of hands-on experience in Technical Support, IT Infrastructure and System Administration across enterprise environments.
+
+Currently transitioning into Cloud-focused roles after working with Oracle hardware infrastructure, university IT systems, and leading technical teams.
+
+Certifications:
+- AWS Certified Cloud Practitioner
+- Oracle Cloud Infrastructure Foundations Associate
+- Oracle Data Platform Foundations Associate
+
+Technical Skills:
+- Cloud Platforms: AWS, Oracle Cloud
+- Operating Systems: Linux, Windows, macOS
+- Tools & Technologies: Docker, Git, VMware, Bash, KVM
+- Languages: C, C++, JS, Java, Python
+
+Spanish(native), English(B2), Portuguese(B1), Catalan(A2).
+
+Currently seeking Cloud Engineer opportunities in Chile/Spain. Open to relocation and hybrid/remote positions.
 <br/>  
-
+<!---
 ### <a href="https://hub.docker.com/u/xilenox" target="_blank" alt="DockerHub" height="50" />DockerHub</a>  
 
 ### <a href="https://deepnote.com/@carlos-astorga" target="_blank" alt="Deepnote" height="50" />Deepnote</a>  

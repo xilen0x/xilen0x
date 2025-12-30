@@ -32,22 +32,6 @@ Currently seeking Cloud Engineer opportunities in Chile/Spain. Open to relocatio
 <br>  
 <br/>
 
-## :round_pushpin: GitHub Stats
-
-<div align="center">
-
-| <div align="center"> <span style="font-family:system-ui; font-size:24px; color:#0969da">Most Used Languages</span><br> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xilen0x&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=00000000&hide_title=true) </div> | <div align="center"> <span style="font-family:system-ui; font-size:24px; color:#0969da">Carlos A.'s GitHub Stats</span><br> ![Stats](https://github-readme-stats.vercel.app/api?username=xilen0x&show_icons=true&count_private=true&hide_border=true&theme=radical&bg_color=00000000&hide_title=true) </div> |
-|:--:|:--:|
-
-</div>
-
-
-
-
-
-<br/>  
-
-
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 

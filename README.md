@@ -22,7 +22,6 @@ Technical Skills:
 
 Spanish(native), English(B2), Portuguese(B1), Catalan(A2).
 
-Currently seeking Cloud Engineer opportunities in Chile/Spain. Open to relocation and hybrid/remote positions.
 <br/>  
 <!---
 ### <a href="https://hub.docker.com/u/xilenox" target="_blank" alt="DockerHub" height="50" />DockerHub</a>  

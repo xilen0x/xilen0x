@@ -24,13 +24,9 @@ I build production AI products on top of large language models, and I bring 10+ 
 - Oracle Cloud Infrastructure Foundations Associate
 - Oracle Data Center Operations Foundations Associate
 - AWS Certified Cloud Practitioner
-- **Specialty in C/C++ development** — 42Barcelona
-  - Issued May 2023
-- **Java Back-end Web Developer** — INKORFORMACION
-  - Issued March 30, 2023
-  - Credential ID: 2022/mestalentcat/1343682
-- **Full Stack Web Developer** — 4Geeks Academy Chile
-  - Issued May 2020
+- Specialty in C/C++ development — 42Barcelona
+- Java Back-end Web Developer — INKORFORMACION (Credential ID: 2022/mestalentcat/1343682)
+- Full Stack Web Developer — 4Geeks Academy Chile
 
 ## Tech stack
 

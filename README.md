@@ -1,4 +1,4 @@
-# Hi, I'm Carlos (Nox)
+# Hi, I'm Carlos
 
 AI Engineer in transition | LLM-powered applications, cloud infrastructure and automation.
 
@@ -24,9 +24,9 @@ I build production AI products on top of large language models, and I bring 10+ 
 - Oracle Cloud Infrastructure Foundations Associate
 - Oracle Data Center Operations Foundations Associate
 - AWS Certified Cloud Practitioner
-- Specialty in C/C++ development — 42Barcelona
-- Java Back-end Web Developer — INKORFORMACION (Credential ID: 2022/mestalentcat/1343682)
-- Full Stack Web Developer — 4Geeks Academy Chile
+- Specialty in C/C++ development, 42Barcelona
+- Java Back-end Web Developer, INKORFORMACION
+- Full Stack Web Developer, 4Geeks Academy Chile
 
 ## Tech stack
 

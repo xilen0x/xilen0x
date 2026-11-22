@@ -1,117 +1,52 @@
-▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉🚴▉▉▉▉▉▉▉
-                                         
+# Hi, I'm Carlos (Nox)
 
-  ##                Hi! I'm a Computer Science Engineer, 
-## interested in  Cloud Architecture, Systems & Development   :exclamation:
+AI Engineer in transition | LLM-powered applications, cloud infrastructure and automation.
 
-Cloud Engineer with 8+ years of hands-on experience in Technical Support, IT Infrastructure and System Administration across enterprise environments.
+I build production AI products on top of large language models, and I bring 10+ years of hands-on experience in IT infrastructure, data center hardware (Oracle) and technical support. That background shapes how I build: reliable deployments, sensible security and systems that keep running after launch.
 
-Currently transitioning into Cloud-focused roles after working with Oracle hardware infrastructure, university IT systems, and leading technical teams.
+## What I'm working on
 
-Certifications:
-- AWS Certified Cloud Practitioner
-- Oracle Cloud Infrastructure Foundations Associate
-- Oracle Data Platform Foundations Associate
+- **cvbueno** - AI-powered CV tailoring SaaS for Spanish-speaking job seekers, in production with real users. Stack: React, TypeScript, Vite, Supabase (Postgres + RLS + Auth), Anthropic API (Claude Haiku), Cloudflare Pages, LemonSqueezy.
+- **Agentic development workflows** - daily work with Claude Code and AI agents (Gentle-AI ecosystem) for building and shipping software.
+- **AI automation for small businesses** - LLM integrations and process automation for local clients.
+
+## Focus areas
+
+- **LLM application development:** prompt design, structured outputs, API integration, cost and latency control
+- **Security for AI apps:** prompt-injection mitigation, row-level security, keeping secrets and sensitive operations server-side
+- **Cloud deployment of AI workloads:** AWS, Oracle Cloud, Cloudflare, Docker, Terraform
+- **Data foundations:** Big Data & Data Science master's (IL3 - Universitat de Barcelona), Python, SQL
+
+## Certifications
+
 - OCI Certified AI Foundations Associate
+- Oracle Data Platform Foundations Associate
+- Oracle Cloud Infrastructure Foundations Associate
+- Oracle Data Center Operations Foundations Associate
+- AWS Certified Cloud Practitioner
 
-Technical Skills:
-- Cloud Platforms: AWS, Oracle Cloud
-- Operating Systems: Linux, Windows, macOS
-- Tools & Technologies: Docker, Git, VMware, Bash, KVM, Claude Code...
-- Languages: C, C++, JS, Java, Python
+## Tech stack
 
-Spanish(native), English(B2), Portuguese(B1), Catalan(A2).
+### AI / LLM
 
-<br/>  
-<!---
-### <a href="https://hub.docker.com/u/xilenox" target="_blank" alt="DockerHub" height="50" />DockerHub</a>  
+![Anthropic API](https://img.shields.io/badge/Anthropic%20API-D97757?style=for-the-badge) ![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge)
 
-### <a href="https://deepnote.com/@carlos-astorga" target="_blank" alt="Deepnote" height="50" />Deepnote</a>  
--->
-<br>  
-<br/>
+### Application
 
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge) ![Supabase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge) ![Go](https://img.shields.io/badge/Go-007D9C?style=for-the-badge)
 
+### Cloud & Infrastructure
 
-### Frontend  
-<div align="center">  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
-<a href="#" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/xilen0x/xilen0x/master/pandas.png" alt="Pandas" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/> </a>  
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" /></a>  
-<a href="https://www.tableau.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tableau.svg" alt="Tableau" height="50" /></a>  
-</div>
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge) ![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-C74634?style=for-the-badge) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge) ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge) ![Linux](https://img.shields.io/badge/Linux-333333?style=for-the-badge) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge)
 
+## Writing
 
+Technical articles on [Medium](https://medium.com/@carlos.astorga): Terraform deployment of EC2 + ALB on AWS, an introductory LDAP guide, Git automation scripts.
 
-</td><td valign="top" width="33%">
+## Languages
 
+Spanish (native) | English (B2) | Portuguese (B1) | Catalan (A2)
 
+## Connect
 
-### Backend  
-<div align="center">
-<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-<a href="https://docs.spring.io/spring-framework/docs/3.0.x/reference/expressions.html#:~:text=The%20Spring%20Expression%20Language%20(SpEL,and%20basic%20string%20templating%20functionality." target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="50" /></a>  
-<a href="https://mariadb.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mariadb.png" alt="Maria DB" height="50" /></a>  
-<a href="https://www.oracle.com/in/index.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/oracle-original.svg" alt="Oracle" height="50" /></a>  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
-<a href="https://supabase.com/" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" alt="Supabase" height="50" /></a>  
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
-<a href="https://azure.microsoft.com/en-in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="50" /></a>  
-<a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" /></a>  
-</div>
-
-
-</td><td valign="top" width="33%">
-
-
-
-### DevOps  
-<div align="center">  
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
-<a href="https://azure.microsoft.com/en-in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="50" /></a>  
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
-</div>
-
-</td></tr></table>  
-
-<br/>  
-
-
-## Connect with me  
-<div align="center">
-<a href="https://github.com/xilen0x" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/carlos-astorga" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://gitlab.com/xilen0x" target="_blank">
-<img src=https://img.shields.io/badge/gitlab-330F63.svg?&style=for-the-badge&logo=gitlab&logoColor=white alt=gitlab style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
-
-<br/>  
-
-
-
-
+[LinkedIn](https://linkedin.com/in/carlos-astorga) | [GitHub](https://github.com/xilen0x) | [Medium](https://medium.com/@carlos.astorga)
